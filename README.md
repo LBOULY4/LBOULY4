@@ -1,4 +1,4 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+for freelance work? do reach, [email](mailto:lbouly4.work@gmail.com) :)
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -15,7 +15,7 @@ JSON         12 mins         ▒░░░░░░░░░░░░░░░░
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<a href="https://www.buymeacoffee.com/LBOULY4" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
